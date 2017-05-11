@@ -1,0 +1,12 @@
+Take the Input file as Command Line Argument
+1.	Clear the Data ( Delete Irrelevent Fields )
+2.	Convert it into Pandas DataFrame
+3.	Group by Game_id
+4.	Search for Users for Particular Game_id
+5.	add a column for the timestamp difference
+6.	calculate Total Sessions, Valid Sessions and Avg_Valid_Session_Time by using the given Conditions
+7.	Convert the DataFrame to CSV as Report.CSV
+8.	get the dataframe of Groupedby Game_id and sort it on the basis of user_id and find the frequency and most frequent user.
+9.	convert that dataFrame to CSV as User_stats.CSV
+10.	Print the Summary of the Report on the Terminal
+
